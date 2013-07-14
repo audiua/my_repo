@@ -1,1 +1,6 @@
-<?php echo 'first'; ?>
+<?php 
+
+echo 'first'; 
+echo 'second';
+
+?>
